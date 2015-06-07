@@ -1,4 +1,4 @@
-public class GithubClass implements Serialzable{
+public class GithubClass {
 private int id;
 private String name;
 }
